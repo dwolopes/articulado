@@ -107,4 +107,27 @@
   </div>
   <div class="panel-footer">Panel footer</div>
 </div> -->
+
+<div class="jumbotron">
+    <h3>Conhecer dicas de aprimoramento<br>
+    pessoal me trouxe confiança e agora<br> 
+    é mais fácil me apresentar publicamente</h3> 
+    <div class="row">
+        <div class="col-md-12">
+            <form class="form-inline">
+                <div class="form-group">
+                    <input type="text" class="form-control" id="nome" placeholder="Seu nome">
+                </div>
+                <div class="form-group input-group">
+                    <input type="email" class="form-control" id="email" placeholder="Seu endereço de e-mail">
+                    <div class="input-group-btn">
+                        <button class="btn btn-default" type="submit">
+                            Enviar
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
 @endsection
