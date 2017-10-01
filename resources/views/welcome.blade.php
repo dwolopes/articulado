@@ -101,11 +101,10 @@
 @extends('layouts.app')
 
 @section('content')
-
-<div class="row" id="aside">
-    <div class="col-md-6">
-        
-    </div>
-</div>
-
+<!-- <div class="panel panel-default">
+  <div class="panel-body">
+    Panel content
+  </div>
+  <div class="panel-footer">Panel footer</div>
+</div> -->
 @endsection

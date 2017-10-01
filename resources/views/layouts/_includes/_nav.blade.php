@@ -20,14 +20,14 @@
 
             <div class="collapse navbar-collapse" id="app-navbar-collapse">
                 <div class="row">
-                    <div class="col-md-5">
+                    <div class="col-md-6">
                         <ul class="nav navbar-nav">
                             &nbsp;
                             &nbsp;
                             &nbsp;
                         </ul>
                     </div>
-                    <div class="col-md-5">
+                    <div class="col-md-4">
                         <ul class="nav navbar-nav">
                             <li class="active">
                                 <a href="#"><span>Saiba Mais</span></a>
