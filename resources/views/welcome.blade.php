@@ -130,4 +130,161 @@
         </div>
     </div>
 </div>
+
+<!--Postagens E.-->
+<section class="postagens">
+    <div class="container">
+        <div class="row" >
+            <!--Imagens Post-->
+            <div class="col-lg-6  col-md-12 col-sm-12 col-xs-12">
+                <a href="wwww.articulese.com.br/page2">
+                    <img src="{{ asset('images/1.png') }}" class="img-responsive" max-width="500">
+                </a>
+            </div>
+
+
+            <!--Post-->
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                <a href="wwww.articulese.com.br/page2">
+                    <h1>Aonde posso conseguir um lorem ipsun ?</h1>
+                </a>
+                <h4>Ao contrário do que se acredita, Lorem Ipsum não é simplesmente um texto randômico. Com mais de 2000 anos, suas raízes podem ser encontradas em uma obra de literatura latina clássica datada de 45 AC. Richard McClintock, um professor de latim do Hampden-Sydney[...] 
+                </h4>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--Postagens D.-->
+<section class="postagens">
+    <div class="container">
+        <hr>
+        <div class="row" >
+            <!--Post-->
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                <a href="wwww.articulese.com.br/page2">
+                    <h1>Aonde posso conseguir um lorem ipsun ?</h1>
+                </a>
+                <h4>Ao contrário do que se acredita, Lorem Ipsum não é simplesmente um texto randômico. Com mais de 2000 anos, suas raízes podem ser encontradas em uma obra de literatura latina clássica datada de 45 AC. Richard McClintock, um professor de latim do Hampden-Sydney[...]</h4>
+            
+            </div>            
+            <!--Imagens Post-->
+            <div class="col-lg-6  col-md-12 col-sm-12 col-xs-12">
+                <a href="wwww.articulese.com.br/page2">
+                    <img src="{{ asset('images/1.png') }}" class="img-responsive" max-width="500">
+                </a>
+            </div>
+
+
+
+        </div>
+    </div>
+</section>
+
+<!--Postagens E.-->
+<section class="postagens">
+    <div class="container">
+        <hr>
+        <div class="row" >
+            <!--Imagens Post-->
+            <div class="col-lg-6  col-md-12 col-sm-12 col-xs-12">
+                <a href="wwww.articulese.com.br/page2">
+                    <img src="{{ asset('images/1.png') }}" class="img-responsive" max-width="500">
+                </a>
+            </div>
+
+
+            <!--Post-->
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                <a href="wwww.articulese.com.br/page2">
+                    <h1>Aonde posso conseguir um lorem ipsun ?</h1>
+                </a>
+                <h4>Ao contrário do que se acredita, Lorem Ipsum não é simplesmente um texto randômico. Com mais de 2000 anos, suas raízes podem ser encontradas em uma obra de literatura latina clássica datada de 45 AC. Richard McClintock, um professor de latim do Hampden-Sydney[...]
+                </h4>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--Postagens D.-->
+<section class="postagens">
+    <div class="container">
+        <hr>
+        <div class="row" >
+            <!--Post-->
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                <a href="wwww.articulese.com.br/page2">
+                    <h1>Aonde posso conseguir um lorem ipsun ?</h1>
+                </a>
+                <h4>Ao contrário do que se acredita, Lorem Ipsum não é simplesmente um texto randômico. Com mais de 2000 anos, suas raízes podem ser encontradas em uma obra de literatura latina clássica datada de 45 AC. Richard McClintock, um professor de latim do Hampden-Sydney[...]</h4>
+            </div>           
+
+            <!--Imagens Post-->
+            <div class="col-lg-6  col-md-12 col-sm-12 col-xs-12">
+                <a href="wwww.articulese.com.br/page2">
+                    <img src="{{ asset('images/1.png') }}" class="img-responsive" max-width="500">
+                </a>
+            </div>
+
+
+
+        </div>
+    </div>
+</section>
+
+<!--Postagens E.-->
+<section class="postagens">
+    <div class="container">
+        <hr>
+        <div class="row" >
+            <!--Imagens Post-->
+            <div class="col-lg-6  col-md-12 col-sm-12 col-xs-12">
+                <a href="wwww.articulese.com.br/page2">
+                    <img src="{{ asset('images/1.png') }}" class="img-responsive" max-width="500">
+                </a>
+            </div>
+
+
+            <!--Post-->
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                <a href="wwww.articulese.com.br/page2">
+                    <h1>Aonde posso conseguir um lorem ipsun ?</h1>
+                </a>
+                <h4>Ao contrário do que se acredita, Lorem Ipsum não é simplesmente um texto randômico. Com mais de 2000 anos, suas raízes podem ser encontradas em uma obra de literatura latina clássica datada de 45 AC. Richard McClintock, um professor de latim do Hampden-Sydney[...]
+                </h4>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--Postagens D.-->
+<section class="postagens">
+    <div class="container">
+        <hr>
+        <div class="row" >
+            <!--Post-->
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                <a href="wwww.articulese.com.br/page2">
+                    <h1>Aonde posso conseguir um lorem ipsun ?</h1>
+                </a>
+                <h4>Ao contrário do que se acredita, Lorem Ipsum não é simplesmente um texto randômico. Com mais de 2000 anos, suas raízes podem ser encontradas em uma obra de literatura latina clássica datada de 45 AC. Richard McClintock, um professor de latim do Hampden-Sydney[...] 
+                </h4>
+            </div>
+
+            <!--Imagens Post-->
+            <div class="col-lg-6  col-md-12 col-sm-12 col-xs-12">
+                <a href="wwww.articulese.com.br/page2">
+                    <img src="{{ asset('images/1.png') }}" class="img-responsive" max-width="500">
+                </a>
+            </div>
+
+
+
+        </div>
+    </div>
+</section>
+
+
+
+
 @endsection

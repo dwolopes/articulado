@@ -32,7 +32,7 @@
         @endif
         @yield('content')
     </div>
-
+    @include('layouts._includes._footer')
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}"></script>
     <script src="{{ asset('js/style.js') }}"></script>
