@@ -1,0 +1,32 @@
+#logo{
+	margin-top: -10px;
+}
+
+.navbar-default{
+	min-height:90px;
+}
+
+.navbar-nav{
+	margin-top: 20px;
+}
+
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-text {
+    color: #006c62;
+    font-weight: 900;
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+	color: #006c62;
+}
+
+.navbar-default .navbar-nav>.active>a{
+	color: white;
+    background-color: #006c62;
+    opacity: 0.8;
+    padding-bottom:35px;
+    padding-top:30px;
+    margin-top: -18px;
+}
+.navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+	transition: background-color 0.9s ease;
+}

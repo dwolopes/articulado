@@ -13,12 +13,31 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    {{ config('app.name', 'Articulado') }}
+                    <img id="logo" class="img-responsive" alt="logo" src="{{ asset('images/articulei_logo.png') }}" width="60">
                 </a>
+
             </div>
 
             <div class="collapse navbar-collapse" id="app-navbar-collapse">
-            
+                <div class="row">
+                    <div class="col-md-5">
+                        <ul class="nav navbar-nav">
+                            &nbsp;
+                            &nbsp;
+                            &nbsp;
+                        </ul>
+                    </div>
+                    <div class="col-md-5">
+                        <ul class="nav navbar-nav">
+                            <li class="active">
+                                <a href="#"><span>Saiba Mais</span></a>
+                            </li>
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">Sobre</a></li>
+                            <li><a href="#">Contato</a></li>
+                        </ul>
+                    </div>
+                </div>
             </div>
         </div>
     </nav>
