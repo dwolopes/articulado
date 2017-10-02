@@ -116,12 +116,12 @@
         <div class="col-md-12">
             <form class="form-inline">
                 <div class="form-group">
-                    <input type="text" class="form-control" id="nome" placeholder="Seu nome">
+                    <input type="text" class="form-control" name="nome" id="nome" placeholder="Seu nome">
                 </div>
                 <div class="form-group input-group">
-                    <input type="email" class="form-control" id="email" placeholder="Seu endereço de e-mail">
+                    <input type="email" class="form-control" name="email" id="email" placeholder="Seu endereço de e-mail">
                     <div class="input-group-btn">
-                        <button class="btn btn-default" type="submit">
+                        <button class="btn btn-default btn-submit" type="submit">
                             Enviar
                         </button>
                     </div>
